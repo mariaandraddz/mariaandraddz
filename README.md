@@ -1,7 +1,7 @@
 # Olá, eu sou a Maria Eduarda 👋
 
 ###  Sobre mim
-*  Atualmente estou trabalhando como: **Desenvolvedora Full Stack na WEX**
+*  Atualmente estou trabalhando como: **Desenvolvedora Full Stack na WEX (Aprendiz)**
 * Estou aprendendo no momento: **Golang**
 *  Busco colaborar em: **Projetos open source, projetos em equipe, etc.**
 * Curiosidade: **Adoro gatos e Marvel**
