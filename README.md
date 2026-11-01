@@ -43,10 +43,8 @@ Tenho interesse em desenvolvimento de software, arquitetura de sistemas, engenha
 
 - Desenvolvimento Full Stack
 - Engenharia de Software
-- Engenharia de Dados
 - Arquitetura de APIs e sistemas distribuídos
 - Open Source
-- Análise e visualização de dados
 
 ### 📫 Contato
 
