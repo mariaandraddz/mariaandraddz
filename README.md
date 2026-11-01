@@ -6,7 +6,7 @@ Desenvolvedora de Software
 
 💻 Atualmente, atuo como Desenvolvedora Full Stack Apprentice na WEX Brasil Tech, trabalhando com desenvolvimento e manutenção de APIs RESTful, utilizando tecnologias como Go (Golang), Gin e C#/.NET.
 
-Tenho interesse em desenvolvimento de software, arquitetura de sistemas, engenharia de dados, análise de dados e tecnologias open source.
+Tenho interesse em desenvolvimento de software, arquitetura de sistemas e tecnologias open source.
 
 ### 🚀 Tecnologias e ferramentas
 
